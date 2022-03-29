@@ -28,7 +28,7 @@ void main()
 
 ![op1](output/op1.png)
 
-### WAP to store record of 100 books
+### WAP to store record of 2 books
 
 > Code
 
@@ -46,7 +46,7 @@ void main()
     struct book b[100]; /*array of students */
     float temp;
     int i;
-    for (i = 0; i < 100; i++)
+    for (i = 0; i < 2; i++)
         ;
     {
         printf("\n Enter name:");
@@ -56,7 +56,7 @@ void main()
         b[i].price = temp;
         printf("\n Enter pages:");
     }
-    for (i = 0; i < 100; i++)
+    for (i = 0; i < 2; i++)
     {
         printf("\nName:%s \t pice:%f \t  pages:%d", b[i].name, b[i].price, b[i].pages);
     }
@@ -65,6 +65,8 @@ void main()
 ```
 
 > Output
+
+![op2](output/op2.png)
 
 ### WAP to find whether a person is eligible to vote or not
 
