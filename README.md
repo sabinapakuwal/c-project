@@ -26,7 +26,7 @@ void main()
 
 > Output
 
-- Screenshot
+![op1](output/op1.png)
 
 ### WAP to store record of 100 books
 
