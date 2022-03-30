@@ -65,8 +65,8 @@ void main()
 ```
 
 > Output
-
-![op2](output/op2.png)
+> ![op13](output/op13.png)
+> ![op2](output/op2.png)
 
 ### WAP to find whether a person is eligible to vote or not
 
