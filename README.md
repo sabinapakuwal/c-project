@@ -94,7 +94,7 @@ int main()
 
 > Output
 
-![op3](output/op3.png)
+![op3(2)](<output/op3(2).png>)
 
 ### WAP to record the employees name and salary in a data file and display them
 
