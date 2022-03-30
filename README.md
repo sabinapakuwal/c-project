@@ -376,36 +376,25 @@ void main()
 
 > Output
 
-### WAP to print pattern
+### WAP to reverse a string
 
 > Code
 
-```c
-#include <stdio.h>
-#include <conio.h>
-void area(int);
+````c
+#include<stdio.h>
+#include<conio.h>
 void main()
 {
-    int r;
-    printf("ent
-#include <stdio.h>
-#include <conio.h>
-int main()
-{
-    int i, j;
-    for (i = 1; i <= 6; i++)
-    {
-        for (j = 1; j <= i; j++)
-        {
-            printf("%d", j);
-        }
-        printf("\n");
-    }
-    return 0;
+char[50],str,rev;
+printf("Enter a string);
+scanf("%s",str);
+rev=strrev(str);
+printf("reverse of string is %s",rev);
+getch();
 }
-```
 
 > Output
+![op17](output/op17.png)
 
 ### WAP for simple interest
 
@@ -430,7 +419,7 @@ void si(int p,int t,int r)
     printf("simple interest is %d",s);
 
 }
-```
+````
 
 > Output
 > ![op6](output/op6.png)
