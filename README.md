@@ -316,7 +316,7 @@ int main()
 > Output
 > ![op11](output/op11.png)
 
-### WAP to print a name
+### WAP to print a name and subject
 
 > Code
 
