@@ -769,7 +769,7 @@ int main()
 
 > Output
 
-### Switch
+### Wap to print a day of a week using switch case
 
 > Code
 
@@ -808,6 +808,7 @@ int main()
 ```
 
 > Output
+> ![op9](output/op9.png)
 
 ### Telno
 
