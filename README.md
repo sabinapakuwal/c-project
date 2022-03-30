@@ -768,6 +768,7 @@ int main()
 ```
 
 > Output
+> ![op10](output/op10.png)
 
 ### Wap to print a day of a week using switch case
 
