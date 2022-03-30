@@ -130,7 +130,7 @@ while (fscanf(fp, "%s%d", name, &sal) !EOF)
 
 > Output
 
-### WAP using while loop
+### WAP using while loop print upto 50
 
 > Code
 
@@ -140,7 +140,7 @@ while (fscanf(fp, "%s%d", name, &sal) !EOF)
 int main()
 {
     int a;
-    while (a <= 100)
+    while (a <= 50)
     {
         printf("%d\n", a);
         a++;
@@ -150,6 +150,7 @@ int main()
 ```
 
 > Output
+> ![op4](output/op4.png)
 
 ### WAP to print asterisk
 
