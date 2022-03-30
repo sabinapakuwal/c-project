@@ -425,24 +425,26 @@ int main()
 ```c
 #include <stdio.h>
 #include <conio.h>
-void si(int, int, int);
+void si(int,int,int);
 void main()
 {
-    int p, t, r;
-    printf("enter principle.time,rate");
-    scanf("%d%d%d", &p, &t, &r);
-    si(p, t, r);
+    int p,t,r;
+    printf("Enter principle,time,rate");
+    scanf("%d%d%d",&p,&t,&r);
+    si(p,t,r);
     getch();
 }
-void si(int p, int t, int r);
-int sim;
-sim = (p * t * r) / 100;
+void si(int p,int t,int r)
 {
-    printf("%d is simple interest ", sim);
+    int s;
+    s=(p*t*r)/100;
+    printf("simple interest is %d",s);
+
 }
 ```
 
 > Output
+> ![op6](output/op6.png)
 
 ### C program to print fibonacci series upon nth term using function
 
