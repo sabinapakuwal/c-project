@@ -401,6 +401,13 @@ void main()
 ```c
 #include <stdio.h>
 #include <conio.h>
+void area(int);
+void main()
+{
+    int r;
+    printf("ent
+#include <stdio.h>
+#include <conio.h>
 int main()
 {
     int i, j;
@@ -608,7 +615,7 @@ getch();
         t = p;
         p = q;
         q = p;
-})")")
+}
 }
 ```
 
@@ -637,6 +644,7 @@ void main()
 ```
 
 > Output
+> ![op7](output/op7.png)
 
 ### Program to display the address and value of variable using pointer
 
