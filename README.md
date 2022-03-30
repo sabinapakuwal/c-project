@@ -332,6 +332,7 @@ void main()
 ```
 
 > Output
+> ![op16](output/op16.png)
 
 ### WAP to ask and print name, address and tel no
 
