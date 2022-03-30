@@ -151,28 +151,6 @@ int main()
 > Output
 > ![op4](output/op4.png)
 
-### WAP to print asterisk
-
-> Code
-
-```c
-#include <stdio.h>
-void main()
-{
-    int i, j;
-    for (i = i; i <= 1; i++) // rows
-    {
-        for (j = 1; j <= i; j++) // column
-
-        {
-            printf("*");
-        }
-        printf("\n");
-    }
-    return 0;
-}
-```
-
 > Output
 
 ### WAP to print a fibonacci series
@@ -261,6 +239,7 @@ void printmyname()
 ```
 
 > Output
+> ![op14](output/op14.png)
 
 ### Print a number by increasing
 
