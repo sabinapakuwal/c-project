@@ -334,6 +334,7 @@ int main()
 ```
 
 > Output
+> ![op11](output/op11.png)
 
 ### WAP to print a name
 
@@ -564,7 +565,9 @@ return(n*factorial(n_1));
 
 ```c
 #include <stdio.h>
-Include<conio.h> void main() struct employee
+#include<conio.h>
+void main()
+struct employee;
 {
     char name[50];
     int salary;
@@ -588,7 +591,7 @@ for(i=0;i<n;i++);
 }
 printf(")\n.........);
 getch();
-      } ")")
+      }
 ```
 
 > Output
@@ -605,11 +608,12 @@ void main()
 {
     int x, y;
     x = 20;
-    y = 30 printf("\nvalue of x=%d and y=y=%d", x, y);
+    y = 30;
+     printf("\nvalue of x=%d and y=y=%d", x, y);
     fncn(x, y);
 printf("\n value of x=%d and y =%d,x,y);
 getch();
-]fncn(p,q)
+void fncn(p,q)
 {
         int t;
         t = p;
