@@ -257,6 +257,7 @@ int main()
 ```
 
 > Output
+> ![op15](output/op15.png)
 
 ### Wap to enter the name, roll no and mark obtained in computer of n students in a structure and store the details of student in a file named abc.txt having marks obtained in computer more than or equals to 75
 
