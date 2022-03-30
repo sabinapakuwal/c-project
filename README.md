@@ -315,6 +315,7 @@ void main()
 ```
 
 > Output
+> ![op12](output/op12.png)
 
 ### WAP to show mod
 
