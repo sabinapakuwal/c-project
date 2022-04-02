@@ -219,6 +219,7 @@ void main()
 ```
 
 > Output
+> ![op18](output/op18.png)
 
 ### Create a sample function
 
