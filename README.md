@@ -65,7 +65,8 @@ void main()
 ```
 
 > Output
-> ![op13](output/op13.png)
+
+![op13](output/op13.png)
 
 ### WAP to find whether a person is eligible to vote or not
 
@@ -149,9 +150,7 @@ int main()
 ```
 
 > Output
-> ![op4](output/op4.png)
-
-> Output
+![op4](output/op4.png)
 
 ### WAP to print a fibonacci series
 
@@ -178,7 +177,8 @@ int main()
 ```
 
 > Output
-> ![op5](output/op5.png)
+
+![op5](output/op5.png)
 
 ### WAP to write 'n' person name, address and tel no in a data file and display them reading successive data from the file in proper format
 
@@ -240,7 +240,8 @@ void printmyname()
 ```
 
 > Output
-> ![op14](output/op14.png)
+
+![op14](output/op14.png)
 
 ### Print a number by increasing
 
@@ -258,7 +259,8 @@ int main()
 ```
 
 > Output
-> ![op15](output/op15.png)
+
+![op15](output/op15.png)
 
 ### Wap to enter the name, roll no and mark obtained in computer of n students in a structure and store the details of student in a file named abc.txt having marks obtained in computer more than or equals to 75
 
@@ -295,7 +297,8 @@ void main()
 ```
 
 > Output
-> ![op12](output/op12.png)
+
+![op12](output/op12.png)
 
 ### WAP to show mod
 
@@ -315,7 +318,8 @@ int main()
 ```
 
 > Output
-> ![op11](output/op11.png)
+
+![op11](output/op11.png)
 
 ### WAP to print a name and subject
 
@@ -333,7 +337,8 @@ void main()
 ```
 
 > Output
-> ![op16](output/op16.png)
+
+![op16](output/op16.png)
 
 ### WAP to ask and print name, address and tel no
 
@@ -381,7 +386,7 @@ void main()
 
 > Code
 
-````c
+```c
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -396,6 +401,7 @@ getch();
 ```
 
 > Output
+
 ![op17](output/op17.png)
 
 ### WAP for simple interest
@@ -421,10 +427,11 @@ void si(int p,int t,int r)
     printf("simple interest is %d",s);
 
 }
-````
+```
 
 > Output
-> ![op6](output/op6.png)
+
+![op6](output/op6.png)
 
 ### C program to print fibonacci series upon nth term using function
 
@@ -620,7 +627,8 @@ void main()
 ```
 
 > Output
-> ![op7](output/op7.png)
+
+![op7](output/op7.png)
 
 ### Program to display the address and value of variable using pointer
 
@@ -725,7 +733,8 @@ void main()
 ```
 
 > Output
-> ![op8](output/op8.png)
+
+![op8](output/op8.png)
 
 ### Sum
 
@@ -745,7 +754,8 @@ int main()
 ```
 
 > Output
-> ![op10](output/op10.png)
+
+![op10](output/op10.png)
 
 ### Wap to print a day of a week using switch case
 
@@ -786,7 +796,8 @@ int main()
 ```
 
 > Output
-> ![op9](output/op9.png)
+
+![op9](output/op9.png)
 
 ### Telno
 
