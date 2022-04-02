@@ -392,6 +392,7 @@ rev=strrev(str);
 printf("reverse of string is %s",rev);
 getch();
 }
+```
 
 > Output
 ![op17](output/op17.png)
