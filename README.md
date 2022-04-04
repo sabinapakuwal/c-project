@@ -535,6 +535,7 @@ return(n*factorial(n_1));
 ```
 
 > Output
+> ![op23](output/op23.png)
 
 ### program toinput employee,name,age and theirbasic salary of n employee and displsy the record in proper format
 
