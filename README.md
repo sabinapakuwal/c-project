@@ -65,8 +65,7 @@ void main()
 ```
 
 > Output
-
-![op13](output/op13.png)
+> ![op13](output/op13.png)
 
 ### WAP to find whether a person is eligible to vote or not
 
@@ -150,7 +149,8 @@ int main()
 ```
 
 > Output
-![op4](output/op4.png)
+> ![op4](output/op4.png)
+> Output
 
 ### WAP to print a fibonacci series
 
@@ -177,8 +177,7 @@ int main()
 ```
 
 > Output
-
-![op5](output/op5.png)
+> ![op5](output/op5.png)
 
 ### WAP to write 'n' person name, address and tel no in a data file and display them reading successive data from the file in proper format
 
@@ -240,8 +239,7 @@ void printmyname()
 ```
 
 > Output
-
-![op14](output/op14.png)
+> ![op14](output/op14.png)
 
 ### Print a number by increasing
 
@@ -259,8 +257,7 @@ int main()
 ```
 
 > Output
-
-![op15](output/op15.png)
+> ![op15](output/op15.png)
 
 ### Wap to enter the name, roll no and mark obtained in computer of n students in a structure and store the details of student in a file named abc.txt having marks obtained in computer more than or equals to 75
 
@@ -297,8 +294,7 @@ void main()
 ```
 
 > Output
-
-![op12](output/op12.png)
+> ![op12](output/op12.png)
 
 ### WAP to show mod
 
@@ -318,8 +314,7 @@ int main()
 ```
 
 > Output
-
-![op11](output/op11.png)
+> ![op11](output/op11.png)
 
 ### WAP to print a name and subject
 
@@ -337,8 +332,7 @@ void main()
 ```
 
 > Output
-
-![op16](output/op16.png)
+> ![op16](output/op16.png)
 
 ### WAP to ask and print name, address and tel no
 
@@ -386,7 +380,7 @@ void main()
 
 > Code
 
-```c
+````c
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -401,7 +395,6 @@ getch();
 ```
 
 > Output
-
 ![op17](output/op17.png)
 
 ### WAP for simple interest
@@ -427,11 +420,10 @@ void si(int p,int t,int r)
     printf("simple interest is %d",s);
 
 }
-```
+````
 
 > Output
-
-![op6](output/op6.png)
+> ![op6](output/op6.png)
 
 ### C program to print fibonacci series upon nth term using function
 
@@ -495,21 +487,27 @@ printf("%d area of circle is", a);
 ```c
 #include <stdio.h>
 #include <conio.h>
+void G(int,int);
 void main()
 {
     int a, b;
     printf("Enter any two number");
     scanf("%d%d", &a, &b);
+    void G(a,b);
     getch();
+}
     void G(int a, int b);
-    if (a > b, )then
-print(Greatest is %d", &a);
+    if (a > b)
+    {
+print("Greatest is %d", &a);
+    }
 else{
             printf("Greatest is %d", b);
 }
 ```
 
-> Output
+> Outputp
+> [op21](output/op21.png)
 
 ### Program to input and find its factorial using recursion function
 
@@ -538,7 +536,7 @@ return(n*factorial(n_1));
 
 > Output
 
-### program toinput employee,name and theirbasic salary of n employee and displsy the record in proper format
+### program toinput employee,name,age and theirbasic salary of n employee and displsy the record in proper format
 
 > Code
 
@@ -550,9 +548,10 @@ struct employee;
 {
     char name[50];
     int salary;
+    int age;
 };
 struct employee e[100];
-int i, j, n;
+int i, n;
 printf("how much records");
 scanf(% d "&n);
           for (i = 0; i < n; i++);
@@ -564,9 +563,11 @@ printf("/n enter salary of employee");
 scanf("%d",&e[i]salary);
 printf("/nemployee\t\t salary");
 printf("\n.............");
+printf("enter the age:");
+scanf("%d",&e[i]age);
 for(i=0;i<n;i++);
 {
-        printf("\n%s |t\t\t%d", e[i] name, e[i] salary);
+        printf("%s\t%d\t%d\t%d\t",e[i].name,e[i].salary,e[i].age);
 }
 printf(")\n.........);
 getch();
@@ -574,6 +575,7 @@ getch();
 ```
 
 > Output
+> ![op22](output/op22.png)
 
 ### Program to exchange the value by using function
 
@@ -627,8 +629,7 @@ void main()
 ```
 
 > Output
-
-![op7](output/op7.png)
+> ![op7](output/op7.png)
 
 ### Program to display the address and value of variable using pointer
 
@@ -733,8 +734,7 @@ void main()
 ```
 
 > Output
-
-![op8](output/op8.png)
+> ![op8](output/op8.png)
 
 ### Sum
 
@@ -754,8 +754,7 @@ int main()
 ```
 
 > Output
-
-![op10](output/op10.png)
+> ![op10](output/op10.png)
 
 ### Wap to print a day of a week using switch case
 
@@ -796,8 +795,7 @@ int main()
 ```
 
 > Output
-
-![op9](output/op9.png)
+> ![op9](output/op9.png)
 
 ### Telno
 
