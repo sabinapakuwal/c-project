@@ -620,8 +620,6 @@ void main()
 
 > Output
 
-![op7](output/op7.png)
-
 ### Program to display the address and value of variable using pointer
 
 > Code
@@ -641,8 +639,6 @@ void main()
 ```
 
 > Output
-
-![op20](output/op20.png)
 
 ### Area of Square
 
