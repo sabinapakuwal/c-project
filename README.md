@@ -384,28 +384,6 @@ void main()
 
 > Output
 
-### WAP to reverse a string
-
-> Code
-
-````c
-#include<stdio.h>
-#include<conio.h>
-void main()
-{
-char[50],str,rev;
-printf("Enter a string);
-scanf("%s",str);
-rev=strrev(str);
-printf("reverse of string is %s",rev);
-getch();
-}
-```
-
-> Output
-
-![op17](output/op17.png)
-
 ### WAP for simple interest
 
 > Code
