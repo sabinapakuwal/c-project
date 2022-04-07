@@ -662,7 +662,6 @@ void main()
 ```
 
 > Output
-> ![op26](output/op26,png)
 
 ### Structure
 
