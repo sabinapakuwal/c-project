@@ -662,7 +662,10 @@ void main()
 ```
 
 > Output
+<<<<<<< HEAD
 > ![op26](output/op26.png)
+=======
+>>>>>>> d4b4a96a2fec74c0aaf470dcda2314331bf1c7ac
 
 ### Structure
 
