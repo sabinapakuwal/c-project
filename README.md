@@ -179,8 +179,6 @@ int main()
 
 > Output
 
-![op5](output/op5.png)
-
 ### WAP to write 'n' person name, address and tel no in a data file and display them reading successive data from the file in proper format
 
 > Code
@@ -384,28 +382,6 @@ void main()
 
 > Output
 
-### WAP to reverse a string
-
-> Code
-
-````c
-#include<stdio.h>
-#include<conio.h>
-void main()
-{
-char[50],str,rev;
-printf("Enter a string);
-scanf("%s",str);
-rev=strrev(str);
-printf("reverse of string is %s",rev);
-getch();
-}
-```
-
-> Output
-
-![op17](output/op17.png)
-
 ### WAP for simple interest
 
 > Code
@@ -429,7 +405,7 @@ void si(int p,int t,int r)
     printf("simple interest is %d",s);
 
 }
-````
+```
 
 > Output
 
@@ -643,8 +619,6 @@ void main()
 ```
 
 > Output
-
-![op7](output/op7.png)
 
 ### Program to display the address and value of variable using pointer
 
