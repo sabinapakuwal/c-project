@@ -179,8 +179,6 @@ int main()
 
 > Output
 
-![op5](output/op5.png)
-
 ### WAP to write 'n' person name, address and tel no in a data file and display them reading successive data from the file in proper format
 
 > Code
