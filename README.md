@@ -655,13 +655,14 @@ void main()
     scanf("%d", &l);
     area = l * l;
     {
-        printf("area of square is %d");
+        printf("area of square is %d" area);
     }
     getch();
 }
 ```
 
 > Output
+> ![op26](output/op26,png)
 
 ### Structure
 
