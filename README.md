@@ -848,3 +848,5 @@ printf("Addition is %d",c);
 }
 
     }
+    Output
+    ![op24](output/op24.png)
