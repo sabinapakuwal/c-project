@@ -665,8 +665,7 @@ void main()
 ```
 
 > Output
-
-![op20](output/op20.png)
+> ![op25](output/op25.png)
 
 ### Area of Square
 
