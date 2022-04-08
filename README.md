@@ -639,7 +639,8 @@ void main()
 ```
 
 > Output
-> ![op25](output/op25.png)
+
+![op25](output/op25.png)
 
 ### Area of Square
 
@@ -662,13 +663,14 @@ void main()
 ```
 
 > Output
-> ![op26](output/op26.png)
+
+![op26](output/op26.png)
 
 ### Structure
 
 > Code
 
-```
+```c
 #include <stdio.h>
 #include <conio.h>
 void main()
