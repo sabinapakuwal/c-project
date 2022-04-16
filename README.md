@@ -96,6 +96,7 @@ int main()
 
 ![op3](output/op3.png)
 
+### Wap to print numbers upto 50
 > Code
 
 ```c
