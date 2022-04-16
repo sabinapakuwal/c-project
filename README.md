@@ -532,7 +532,7 @@ printf("Enter any two numbers");
 scanf("%d%d",&a,&b);
 c=a+b;
 {
-printf("Addition is %d",c);
+printf("Addition is %d",c); 
 }
 
     }
@@ -541,3 +541,11 @@ printf("Addition is %d",c);
 > Output
 
 ![op24](output/op24.png)
+
+
+                                   ### Conclusion
+                                   
+
+
+
+ 
