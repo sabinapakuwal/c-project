@@ -96,42 +96,6 @@ int main()
 
 ![op3](output/op3.png)
 
-### WAP to record the employees name and salary in a data file and display them
-
-> Code
-
-```c
-#include <stdio.h>
-#include <conio.h>
-void main()
-{
-    int sal;
-    char name[25], ch;
-    FILE *fp;
-    fp = fopen("abc.txt", "w");
-    do
-    {
-        prinf("Enter employee name,salary");
-        scanf("%s%d", name, &sal);
-        fprinf(fp, "%s%d", name, sal);
-        prinf("Do you want to add more records");
-        scnaf("%c", &ch);
-    } while (ch == "y");
-    fclose(fp);
-}
-fp = fopen("abc.txt", "r");
-while (fscanf(fp, "%s%d", name, &sal) !EOF)
-{
-    printf("\n name=%s \t salary=%d", name, sal);
-    fclsoe(fp);
-    getch();
-}
-```
-
-> Output
-
-### WAP using while loop print upto 50
-
 > Code
 
 ```c
@@ -152,32 +116,6 @@ int main()
 > Output
 
 ![op4](output/op4.png)
-
-### WAP to print a fibonacci series
-
-> Code
-
-```c
-#include <stdio.h>
-#include <conio.h>
-int main()
-{
-    int a = 0, b = 1, c, i, n;
-    printf("Enter how many numbers");
-    scanf("%d ", &n);
-    printf("%d%d", a, b);
-    for (i = 1; i <= n - 2; i++)
-    {
-        c = a + b;
-        printf("%a", c);
-        a = b;
-        b = c;
-    }
-    return 0;
-}
-```
-
-> Output
 
 ### WAP to write 'n' person name, address and tel no in a data file and display them reading successive data from the file in proper format
 
@@ -262,44 +200,6 @@ int main()
 
 ![op15](output/op15.png)
 
-### Wap to enter the name, roll no and mark obtained in computer of n students in a structure and store the details of student in a file named abc.txt having marks obtained in computer more than or equals to 75
-
-> Code
-
-```c
-#include <stdio.h>
-#include <conio.h>
-void main()
-{
-    int n, i;
-    struct student
-    {
-        char name[20];
-        int roll;
-        float markcomp;
-    } s[100];
-    FILE *p;
-    printf("input the number of students:");
-    scanf("%d", &n);
-    p = fopen("abc.txt", "a");
-    for (i = 0; i < n; i++)
-    {
-        printf("input name,rollno and percentage of students:");
-        scanf("%s%d%d", s[i].name, &s[i].roll, &s[i].markcomp);
-        if (s[i].markcomp >= 75)
-        {
-            fprintf(p, "%s%d%ld", s[i].name, s[i].roll, s[i].markcomp);
-        }
-    }
-    fclose(p);
-    getch();
-}
-```
-
-> Output
-
-![op12](output/op12.png)
-
 ### WAP to show mod
 
 > Code
@@ -340,48 +240,6 @@ void main()
 
 ![op16](output/op16.png)
 
-### WAP to ask and print name, address and tel no
-
-> Code
-
-```c
-#include <stdio.h>
-#include <conio.h>
-void main()
-{
-    char name[25];
-    char address[25];
-    char tellno[245];
-    FILE *fp;
-    int i, n;
-    fp = fopen("rec.data", "a");
-    printf("Enetr how many records");
-    scanf("%d", &n);
-    for (i = 0; i < n; i++)
-        ;
-    {
-        prinf("Enter name");
-        scanf("%s", name);
-        printf("Enter address");
-        scanf("%s", address);
-        printf("Enter tellno");
-        scanf("%s", tellno);
-        fprintf("\n %s\t %s\t %s", name, address, tellno);
-    }
-    fclose(fp);
-    fp = fopen("rec.data", "r");
-    printf("Name\t Address\t Tellno\n");
-    while (fscanf(fp, "%s%s%s", name, address, tellno) != EOF)
-    {
-        printf("\n %s \t%s \t%s", name, address, tellno);
-    }
-    fclose(fp);
-    getch();
-}
-```
-
-> Output
-
 ### WAP for simple interest
 
 > Code
@@ -410,61 +268,6 @@ void si(int p,int t,int r)
 > Output
 
 ![op6](output/op6.png)
-
-### C program to print fibonacci series upon nth term using function
-
-> Code
-
-```c
-#include <stdio.h>
-#include <conio.h>
-void fibo(int));
-void main()
-{
-    int n;
-printf(""enter how many numbers")
-scanf("%d"&n);
-fibo(n);
-getch();
-}
-void fibo'(intn)
-{
-    int a = 0, b = 1, c, i;
-    for (i = 0; i < n; i++)
-    {
-        ca + b
-                 print("%d", a);
-        a = b
-            b = c
-    }
-}
-```
-
-> Output
-
-### Area of circle
-
-> Code
-
-```c
-#include <stdio.h>
-#include <conio.h>
-void area(int);
-void main()
-{
-    int r;
-    printf("enter radius");
-    scanf("%d", &r);
-    getch();
-}
-void area(int r);
-int a;
-a = r * r;
-printf("%d area of circle is", a);
-}
-```
-
-> Output
 
 ### Greatest of two number
 
@@ -566,60 +369,6 @@ getch();
 > Output
 
 ![op22](output/op22.png)
-
-### Program to exchange the value by using function
-
-> Code
-
-```c
-#include <stdio.h>
-#include <conio.h>
-intfncn(int, int);
-void main()
-{
-    int x, y;
-    x = 20;
-    y = 30;
-     printf("\nvalue of x=%d and y=y=%d", x, y);
-    fncn(x, y);
-printf("\n value of x=%d and y =%d,x,y);
-getch();
-void fncn(p,q)
-{
-        int t;
-        t = p;
-        p = q;
-        q = p;
-}
-}
-```
-
-> Output
-
-### Remove and rename
-
-> Code
-
-```c
-#include <stdio.h>
-#include <conio.h>
-void main()
-{
-    char name[25];
-    FILE *fp;
-    fp = fopen("f.txt", "w");
-    printf("Inut name");
-    scanf("%s", name);
-    fprintf(fp, "%s", name);
-    fclose(fp);
-    rename("f.txt", "new.txt");
-    remove("f.txt");
-    getch();
-}
-```
-
-> Output
-
 ### Program to display the address and value of variable using pointer
 
 > Code
@@ -665,46 +414,6 @@ void main()
 > Output
 
 ![op26](output/op26.png)
-
-### Structure
-
-> Code
-
-```c
-#include <stdio.h>
-#include <conio.h>
-void main()
-{
-    struct book
-    {
-        char name[50];
-        float price;
-        int page;
-    };
-    struct book b[100];
-    float temp;
-    int i;
-    for (i = 0; i < 100; i++)
-        ;
-    {
-        printf("\n Enter name");
-        scanf("%s", b[i].name);
-        printf("\n Enter price");
-        scanf("\f", &temp);
-        b[i].price = temp;
-        printf("Enter page");
-        scanf("%d", &b[i]);
-    }
-    for (i = 0; i < 100; i++)
-    {
-        printf("\n name:%s \t price:%f \t page:%d", b[i].name, b[i].price, b[i].page);
-    }
-    return 0;
-}
-```
-
-> Output
-
 ### WAP to print the sum of two numbers
 
 > Code
@@ -791,33 +500,6 @@ int main()
 > Output
 
 ![op9](output/op9.png)
-
-### Telno
-
-> Code
-
-```c
-#include <stdio.h>
-#include <conio.h>
-void main()
-{
-    int i, a[10];
-    for (i = 0; i < 10; i++)
-        ;
-    {
-        printf("Enter the number %d:", i + 1);
-        scanf("%d", &a[i]);
-    }
-    printf("The number you entered are:");
-    for (i = 0; i < 10; i++)
-    {
-        printf("\n%d", a[i]);
-    }
-    getch();
-}
-```
-
-> Output
 
 ### Adding two numbers using function
 
