@@ -2,7 +2,7 @@
 
 ## C Projects of Class 12 by Sabina Pakuwal
 
-### WAP to print asterisk
+ ### 1. WAP to print asterisk
 
 > Code
 
@@ -28,7 +28,7 @@ void main()
 
 ![op1](output/op1.png)
 
-### WAP to store record of 2 books
+### 2. WAP to store record of 2 books
 
 > Code
 
@@ -68,7 +68,7 @@ void main()
 
 ![op13](output/op13.png)
 
-### WAP to find whether a person is eligible to vote or not
+### 3. WAP to find whether a person is eligible to vote or not
 
 > Code
 
@@ -96,7 +96,7 @@ int main()
 
 ![op3](output/op3.png)
 
-### Wap to print numbers upto 50
+### 4. Wap to print numbers upto 50
 > Code
 
 ```c
@@ -118,7 +118,7 @@ int main()
 
 ![op4](output/op4.png)
 
-### WAP to write 'n' person name, address and tel no in a data file and display them reading successive data from the file in proper format
+### 5. WAP to write 'n' person name, address and tel no in a data file and display them reading successive data from the file in proper format
 
 > Code
 
@@ -160,7 +160,7 @@ void main()
 
 ![op18](output/op18.png)
 
-### Create a sample function
+### 6. Create a sample function
 
 > Code
 
@@ -182,7 +182,7 @@ void printmyname()
 
 ![op14](output/op14.png)
 
-### Print a number by increasing
+### 7. Print a number by increasing
 
 > Code
 
@@ -201,7 +201,7 @@ int main()
 
 ![op15](output/op15.png)
 
-### WAP to show mod
+### 8. WAP to show mod
 
 > Code
 
@@ -222,7 +222,7 @@ int main()
 
 ![op11](output/op11.png)
 
-### WAP to print a name and subject
+### 9. WAP to print a name and subject
 
 > Code
 
@@ -241,7 +241,7 @@ void main()
 
 ![op16](output/op16.png)
 
-### WAP for simple interest
+### 10. WAP for simple interest
 
 > Code
 
@@ -270,7 +270,7 @@ void si(int p,int t,int r)
 
 ![op6](output/op6.png)
 
-### Greatest of two number
+### 11. Greatest of two number
 
 > Code
 
@@ -300,7 +300,7 @@ else{
 
 ![op21](output/op21.png)
 
-### Program to input and find its factorial using recursion function
+### 12.Program to input and find its factorial using recursion function
 
 > Code
 
@@ -329,7 +329,7 @@ return(n*factorial(n_1));
 
 ![op23](output/op23.png)
 
-### program toinput employee,name,age and theirbasic salary of n employee and displsy the record in proper format
+### 13. program toinput employee,name,age and theirbasic salary of n employee and displsy the record in proper format
 
 > Code
 
@@ -370,7 +370,7 @@ getch();
 > Output
 
 ![op22](output/op22.png)
-### Program to display the address and value of variable using pointer
+### 14. Program to display the address and value of variable using pointer
 
 > Code
 
@@ -392,7 +392,7 @@ void main()
 
 ![op25](output/op25.png)
 
-### Area of Square
+### 15. Area of Square
 
 > Code
 
@@ -415,7 +415,7 @@ void main()
 > Output
 
 ![op26](output/op26.png)
-### WAP to print the sum of two numbers
+### 16. WAP to print the sum of two numbers
 
 > Code
 
@@ -439,7 +439,7 @@ void main()
 
 ![op8](output/op8.png)
 
-### Sum
+### 17. Sum
 
 > Code
 
@@ -460,7 +460,7 @@ int main()
 
 ![op10](output/op10.png)
 
-### Wap to print a day of a week using switch case
+### 18. Wap to print a day of a week using switch case
 
 > Code
 
@@ -502,7 +502,7 @@ int main()
 
 ![op9](output/op9.png)
 
-### Adding two numbers using function
+### 19. Adding two numbers using function
 
 > Code
 
