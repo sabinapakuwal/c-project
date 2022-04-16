@@ -2,7 +2,8 @@
 
 ## C Projects of Class 12 by Sabina Pakuwal.
  
- Introduction:
+# Introduction:
+ 
              C is a programming language developed at AT and Bell Labroratories of the USA in the 1970s. It was designed and developed by Dennis M.Ritchie. It stands between high-level language and low-level language so, it is also known as middle-level language.
              
              
