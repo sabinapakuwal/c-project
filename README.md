@@ -1,4 +1,3 @@
-# C Project
 
 ## C Projects of Class 12 by Sabina Pakuwal.
  
