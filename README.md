@@ -581,10 +581,10 @@ printf("Addition is %d",c);
    ## Conclusion:
                So, this is the work that I have done and I am thankful to the subject teacher for this
                opportunity to write all these programs to enhance my knowledge and it will really help
-               me in my upcomming exams. I have done this project with the helnotecopy, book and subject
-               teacher. 
+               me in my upcomming exams. I have done this project with the help of notecopy, book and
+               subject teacher. 
                
-               
+                              
                
                                                                                                                    YOur's sincerely
                                                                                                                     Sabina Pakuwal
