@@ -584,6 +584,6 @@ printf("Addition is %d",c);
                me in my upcomming exams. I have done this project with the help of notecopy, book and
                subject teacher. 
                
-                                                                                       YOur's sincerely
+                                                                                       Your's sincerely
                                                                                        Sabina Pakuwal
                                
