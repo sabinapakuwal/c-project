@@ -9,7 +9,7 @@
              
  Here are 19 program of c which I have done as my project work.
 
- ### 1. WAP to print asterisk
+ ### 1. Write a program to print asterisk
 
 > Code
 
@@ -72,7 +72,7 @@ void main()
 
 ![op1](output/op1.png)
 
-### 2. WAP to store record of 2 books
+### 2. Write a program to store record of 2 books
 
 > Code
 
@@ -112,7 +112,7 @@ void main()
 
 ![op13](output/op13.png)
 
-### 3. WAP to find whether a person is eligible to vote or not
+### 3. Write a program to find whether a person is eligible to vote or not
 
 > Code
 
@@ -140,7 +140,7 @@ int main()
 
 ![op3](output/op3.png)
 
-### 4. Wap to print numbers upto 50
+### 4. Write a program to print numbers upto 50
 > Code
 
 ```c
@@ -162,7 +162,7 @@ int main()
 
 ![op4](output/op4.png)
 
-### 5. WAP to write 'n' person name, address and tel no in a data file and display them reading successive data from the file in proper format
+### 5. Write a program to write 'n' person name, address and tel no in a data file and display them reading successive data from the file in proper format
 
 > Code
 
@@ -204,7 +204,7 @@ void main()
 
 ![op18](output/op18.png)
 
-### 6. Create a sample function
+### 6.Write a program  to Create a sample function of your name
 
 > Code
 
@@ -226,7 +226,7 @@ void printmyname()
 
 ![op14](output/op14.png)
 
-### 7. Print a number by increasing
+### 7. Write a program to Print a number by increasing 1
 
 > Code
 
@@ -245,7 +245,7 @@ int main()
 
 ![op15](output/op15.png)
 
-### 8. WAP to show mod
+### 8. Write a program  to show mod 
 
 > Code
 
@@ -266,7 +266,7 @@ int main()
 
 ![op11](output/op11.png)
 
-### 9. WAP to print a name and subject
+### 9. Write a program  to print a name and subject
 
 > Code
 
@@ -285,7 +285,7 @@ void main()
 
 ![op16](output/op16.png)
 
-### 10. WAP for simple interest
+### 10. Write a program to find simple interest
 
 > Code
 
@@ -314,7 +314,7 @@ void si(int p,int t,int r)
 
 ![op6](output/op6.png)
 
-### 11. Greatest of two number
+### 11. Write a program to find the greatest of two numbers
 
 > Code
 
@@ -344,7 +344,7 @@ else{
 
 ![op21](output/op21.png)
 
-### 12.Program to input and find its factorial using recursion function
+### 12.Wap to input a number and find its factorial using recursion function
 
 > Code
 
@@ -373,7 +373,7 @@ return(n*factorial(n_1));
 
 ![op23](output/op23.png)
 
-### 13. program toinput employee,name,age and theirbasic salary of n employee and displsy the record in proper format
+### 13. Wap to input employee,name,age and their basic salary and displsy the record in proper formate
 
 > Code
 
@@ -414,7 +414,7 @@ getch();
 > Output
 
 ![op22](output/op22.png)
-### 14. Program to display the address and value of variable using pointer
+### 14. Write a program to display the address and value of variable using pointer
 
 > Code
 
@@ -436,7 +436,7 @@ void main()
 
 ![op25](output/op25.png)
 
-### 15. Area of Square
+### 15. Write a program to find area of Square
 
 > Code
 
@@ -459,7 +459,7 @@ void main()
 > Output
 
 ![op26](output/op26.png)
-### 16. WAP to print the sum of two numbers
+### 16. Write a program to print the sum of two numbers
 
 > Code
 
@@ -483,29 +483,7 @@ void main()
 
 ![op8](output/op8.png)
 
-### 17. Sum of two numbers
-
-
-> Code
-
-```c
-#include <stdio.h>
-#include <conio.h>
-int main()
-{
-    int first = 1;
-    int second = 40;
-    int sum = first + second;
-    printf("sum of two no is %d", sum);
-    return 0;
-}
-```
-
-> Output
-
-![op10](output/op10.png)
-
-### 18. Wap to print a day of a week using switch case
+### 17. Write a program to print a day of a week using switch case
 
 > Code
 
@@ -547,7 +525,7 @@ int main()
 
 ![op9](output/op9.png)
 
-### 19. Adding two numbers using function
+### 18. Write a program to add two numbers using function
 
 > Code
 
