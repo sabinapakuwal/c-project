@@ -7,7 +7,7 @@
              and low-level language so, it is also known as middle-level language.
              
              
- Here are 19 program of c which I have done as my project work.
+ Here are 16 program of c which I have done as my project work.
 
  ### 1. Write a program to print asterisk
 
@@ -204,29 +204,7 @@ void main()
 
 ![op18](output/op18.png)
 
-### 6.Write a program  to Create a sample function of your name
-
-> Code
-
-```c
-#include <stdio.h>
-#include <conio.h>
-int main()
-{
-    printmyname();
-    getch();
-}
-void printmyname()
-{
-    printf("My name is Saina Pakuwal");
-}
-```
-
-> Output
-
-![op14](output/op14.png)
-
-### 7. Write a program to Print a number by increasing 1
+### 6. Write a program to Print a number by increasing 1
 
 > Code
 
@@ -245,7 +223,7 @@ int main()
 
 ![op15](output/op15.png)
 
-### 8. Write a program  to show mod 
+### 7. Write a program  to show mod 
 
 > Code
 
@@ -266,26 +244,7 @@ int main()
 
 ![op11](output/op11.png)
 
-### 9. Write a program  to print a name and subject
-
-> Code
-
-```c
-#include <stdio.h>
-#include <conio.h>
-void main()
-{
-    printf("Sabina Pakuwal\n");
-    printf("computer science");
-    getch();
-}
-```
-
-> Output
-
-![op16](output/op16.png)
-
-### 10. Write a program to find simple interest
+### 8. Write a program to find simple interest
 
 > Code
 
@@ -314,7 +273,7 @@ void si(int p,int t,int r)
 
 ![op6](output/op6.png)
 
-### 11. Write a program to find the greatest of two numbers
+### 9. Write a program to find the greatest of two numbers
 
 > Code
 
@@ -344,7 +303,7 @@ else{
 
 ![op21](output/op21.png)
 
-### 12.Wap to input a number and find its factorial using recursion function
+### 10.Wap to input a number and find its factorial using recursion function
 
 > Code
 
@@ -373,7 +332,7 @@ return(n*factorial(n_1));
 
 ![op23](output/op23.png)
 
-### 13. Wap to input employee,name,age and their basic salary and displsy the record in proper formate
+### 11. Wap to input employee,name,age and their basic salary and displsy the record in proper formate
 
 > Code
 
@@ -414,7 +373,7 @@ getch();
 > Output
 
 ![op22](output/op22.png)
-### 14. Write a program to display the address and value of variable using pointer
+### 12. Write a program to display the address and value of variable using pointer
 
 > Code
 
@@ -436,7 +395,7 @@ void main()
 
 ![op25](output/op25.png)
 
-### 15. Write a program to find area of Square
+### 13. Write a program to find area of Square
 
 > Code
 
@@ -459,7 +418,7 @@ void main()
 > Output
 
 ![op26](output/op26.png)
-### 16. Write a program to print the sum of two numbers
+### 14. Write a program to print the sum of two numbers
 
 > Code
 
@@ -483,7 +442,7 @@ void main()
 
 ![op8](output/op8.png)
 
-### 17. Write a program to print a day of a week using switch case
+### 15. Write a program to print a day of a week using switch case
 
 > Code
 
@@ -525,7 +484,7 @@ int main()
 
 ![op9](output/op9.png)
 
-### 18. Write a program to add two numbers using function
+### 16. Write a program to add two numbers using function
 
 > Code
 
