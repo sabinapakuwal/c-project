@@ -483,7 +483,8 @@ void main()
 
 ![op8](output/op8.png)
 
-### 17. Sum
+### 17. Sum of two numbers
+
 
 > Code
 
