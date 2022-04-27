@@ -2,11 +2,11 @@
 ## C Projects of Class 12 by Sabina Pakuwal.
 
 ##        Acknowledgement
-   I would like to express my special thanks of gratitude to my teacher Manish Shah Sir 
+   I would like to express my special thanks of gratitude to my teacher Mr. Manish Shah 
    for providing a golden opportunity to do this wonderful project which helped me in
    doing a lot of research and I came to know about so many new things.
  
-##    Introduction:
+##    Introduction
    I am presenting a project assignment on the topic of C-programming project.
    C is a programming language developed at AT and Bell Labroratories of the USA in the 1970s.
    It was designed and developed by Dennis M.Ritchie. It stands between high-level language 
@@ -522,12 +522,11 @@ printf("Addition is %d",c);
 
 ![op24](output/op24.png)
 
-   ## Conclusion:
-               So, this is the work that I have done and I am very thankful to the subject teacher for this
-               opportunity to write all these programs to enhance my knowledge and it will really help
-               me in my upcomming exams. I have done this project with the help of notecopy, book and
-               subject teacher. 
+   ## Conclusion
+     So, this is the work that I have done and I am very thankful to the subject teacher and
+     at the end of this project it has enhance my knowledge and it will really help me in my
+     upcomming exams. I have done this project with the help of notecopy, book and subject teacher. 
                
-                                                                                       Your's sincerely
-                                                                                       Sabina Pakuwal
+                                                                                  Your's sincerely
+                                                                                  Sabina Pakuwal
                                
