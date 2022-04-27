@@ -1,5 +1,10 @@
 
 ## C Projects of Class 12 by Sabina Pakuwal.
+
+##        Acknowledgement
+   I would like to express my special thanks of gratitude to my teacher Manish Shah Sir for providing a
+   golden opportunity to do this wonderful project which helped me in doing a lot of research and I came
+   to know about so many new things.
  
 ## Introduction:
              C is a programming language developed at AT and Bell Labroratories of the USA in the 1970s.
