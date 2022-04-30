@@ -1,23 +1,21 @@
+## C Projects of Class 12 by Sabina Pakuwal
 
-## C Projects of Class 12 by Sabina Pakuwal.
+## Acknowledgement
 
-##        Acknowledgement
-   I would like to express my special thanks of gratitude to my teacher Mr. Manish Shah 
-   for providing a golden opportunity to do this wonderful project which helped me in
-   doing a lot of research and I came to know about so many new things.
-   
- 
-##    Introduction
-   I am presenting a project assignment on the topic of C-programming project.
-   C is a programming language developed at AT and Bell Labroratories of the USA in the 1970s.
-   It was designed and developed by Dennis M.Ritchie. It stands between high-level language 
-   and low-level language so, it is also known as middle-level language.
-   
-             
-             
- Here are 16 program of c which I have done as my project work.
+I would like to express my special thanks of gratitude to my teacher Mr. Manish Shah
+for providing a golden opportunity to do this wonderful project which helped me in
+doing a lot of research and I came to know about so many new things.
 
- ### 1. Write a program to print asterisk
+## Introduction
+
+I am presenting a project assignment on the topic of C-programming project.
+C is a programming language developed at AT and Bell Laboratories of the USA in the 1970s.
+It was designed and developed by Dennis M.Ritchie. It stands between high-level language
+and low-level language so, it is also known as middle-level language.
+
+Here are 16 program of c which I have done as my project work.
+
+### 1. Write a program to print asterisk
 
 > Code
 
@@ -38,43 +36,6 @@ void main()
     return 0;
 }
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 > Output
 
@@ -149,6 +110,7 @@ int main()
 ![op3](output/op3.png)
 
 ### 4. Write a program to print numbers upto 50
+
 > Code
 
 ```c
@@ -231,7 +193,7 @@ int main()
 
 ![op15](output/op15.png)
 
-### 7. Write a program  to show mod 
+### 7. Write a program to show mod
 
 > Code
 
@@ -340,7 +302,7 @@ return(n*factorial(n_1));
 
 ![op23](output/op23.png)
 
-### 11. Wap to input employee,name,age and their basic salary and displsy the record in proper formate
+### 11. Wap to input employee,name,age and their basic salary and display the record in proper formate
 
 > Code
 
@@ -381,6 +343,7 @@ getch();
 > Output
 
 ![op22](output/op22.png)
+
 ### 12. Write a program to display the address and value of variable using pointer
 
 > Code
@@ -426,6 +389,7 @@ void main()
 > Output
 
 ![op26](output/op26.png)
+
 ### 14. Write a program to print the sum of two numbers
 
 > Code
@@ -514,7 +478,7 @@ printf("Enter any two numbers");
 scanf("%d%d",&a,&b);
 c=a+b;
 {
-printf("Addition is %d",c); 
+printf("Addition is %d",c);
 }..
 
     }
@@ -524,11 +488,8 @@ printf("Addition is %d",c);
 
 ![op24](output/op24.png)
 
-   ## Conclusion
-     So, this is the work that I have done and I am very thankful to the subject teacher and
-     at the end of this project it has enhance my knowledge and it will really help me in my
-     upcomming exams. I have done this project with the help of notecopy, book and subject teacher. 
-               
+## Conclusion
+
+     So, This is the work that I have done and I am very thankful to the subject teacher and at the end of this project it has enhance my knowledge and it will really help me in my upcoming exams. I have done this project with the help of note, copy, book and subject teacher.
                                                                                   Your's sincerely
                                                                                   Sabina Pakuwal
-                               
