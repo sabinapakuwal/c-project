@@ -1,0 +1,27 @@
+h1 {
+  background-color: brown;
+  border: 10px;
+  display: inline;
+  text-align: center;
+}
+th {
+  font-size: larger;
+  font-style: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+td {
+  font-size: larger;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+tr {
+  size: 20px;
+  color: brown;
+}
+border {
+  color: blue;
+}
+table th,
+table td {
+  color: green;
+  background-color: pink;
+}
